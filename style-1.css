@@ -1,0 +1,92 @@
+/* Default Styles ---------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+body
+{
+   margin: 0px;
+   padding: 0px;
+   background: url("images/bokeh_2.jpg");
+   background-position: top left;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-color: #666;
+   font-size: 20px;
+   font-family: Arial, Helvetica, sans-serif;
+   color: #ffffff;
+   text-align: left;
+}
+
+#wrapper
+{
+   width: 965px;
+   margin: 0 auto;
+   position: relative;
+}
+
+a:link, 
+a:visited, 
+a:active
+{
+   color: #99ccff;
+}
+
+a:hover
+{
+   color: #0073ea;
+}
+
+.content_container_1
+{
+   float: left;
+   width: 650px;
+   margin: 0px 0px 60px 0px;
+}
+
+p.main_decription
+{
+   margin: 5px 0px 50px 0px;
+   text-align: center;
+}
+
+/* Main Image -------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.main_image
+{
+   background: url("images/main_image_1.jpg");
+   background-repeat: no-repeat;
+   width: 630px;
+   height: 425px;
+   border: #fff solid 10px;
+   margin: 40px 0px 10px 0px;
+}
+
+/* Tabs -------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+#tabs p
+{
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 20px;
+}
+
+a.tabs_link_1:link, 
+a:tabs_link_1:visited, 
+a.tabs_link_1:active
+{
+   text-decoration: underline;
+   color: #0073ea;
+   font-weight: bold;
+}
+
+a.tabs_link_1:hover
+{
+   text-decoration: underline;
+   color: #ff0084;
+   font-weight: bold;
+}
+
+#tabs .tabs_img
+{
+   float: left;
+   background-color: #ddd;
+   padding: 8px;
+   margin: 0px 12px 0px 0px;
+}
