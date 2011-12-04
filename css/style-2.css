@@ -4,7 +4,7 @@ body
 {
    margin: 0px;
    padding: 0px;
-   background: url("images/bokeh_2.jpg");
+   background: url("../images/bokeh_4.jpg");
    background-position: top left;
    background-repeat: no-repeat;
    background-attachment: fixed;
@@ -51,7 +51,7 @@ p.main_decription
 /* ------------------------------------------------------------------------- */
 .main_image
 {
-   background: url("images/main_image_1.jpg");
+   background: url("../images/main_image_4.jpg");
    background-repeat: no-repeat;
    width: 630px;
    height: 425px;
